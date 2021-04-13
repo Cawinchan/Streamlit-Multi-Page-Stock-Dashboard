@@ -1,0 +1,13 @@
+botocore==1.17.2
+pandas==1.0.4
+yahoo_fin==0.8.5
+streamlit==0.74.1
+forex_python==1.5
+yfinance==0.1.54
+numpy==1.16.0
+yahoo_finance==1.4.0
+boto3==1.14.2
+plotly==4.4.1
+python_bcrypt==0.3.2
+scikit_learn==0.24.1
+## add binance and coingecko
